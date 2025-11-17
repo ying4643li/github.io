@@ -6,9 +6,10 @@ redirect_from:
   - /about/
   - /about.html
 ---
-# Unlock Your Potential in Physics & Circuits – Tailored Tutoring for NCEA & University Students
-## Practical, step-by-step lessons designed to make learning easy, boost confidence, and improve results.
+## Unlock Your Potential in Physics & Circuits – Tailored Tutoring for NCEA & University Students
+### Practical, step-by-step lessons designed to make learning easy, boost confidence, and improve results.
 [Book Your Free Trial Session](mailto://ying4643li@gmail.com)
+
 ======
 Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured Markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various Markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
