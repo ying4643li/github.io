@@ -12,7 +12,7 @@ redirect_from:
 [Book Your Free Trial Session](mailto:ying4643li@gmail.com "Free Trial")
 
 ---
-
+---
 
  ## Why Learn With Me:
   1. **Personalized Lessons**: One-on-one or small group sessions designed for your pace and goals. (Optional icon: Customization/Individuality)
@@ -27,7 +27,7 @@ Hi, I’m Yixin (Anna) Li. With years of tutoring experience and a solid Electri
 
 ## About Me
 I’m passionate about helping students conquer challenging STEM subjects. My Electrical Engineering studies give me a deep understanding of Physics, Circuits, and Mathematics, which I bring directly into my tutoring sessions. Over the years, I’ve guided students of all levels to achieve better understanding, higher confidence, and improved exam results.
-**H2 Tutoring Philosophy**: I focus on step-by-step explanations, practical problem-solving, and real-life examples. Lessons are fully tailored to each student’s pace and learning style, ensuring they understand concepts deeply and can apply them confidently.
+**Tutoring Philosophy**: I focus on step-by-step explanations, practical problem-solving, and real-life examples. Lessons are fully tailored to each student’s pace and learning style, ensuring they understand concepts deeply and can apply them confidently.
 
 ---
 ## Services
