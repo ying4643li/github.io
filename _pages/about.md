@@ -19,4 +19,4 @@ redirect_from:
   2. **Expert Knowledge**: Strong foundation in Physics, Circuits, Maths, backed by Electrical Engineering studies. (Optional icon: Expertise/Education)
   3. **Proven Success**: Lessons focus on understanding, problem-solving, and exam-ready techniques. (Optional icon: Achievement/Results)
 - **Mini Bio Paragraph**: Hi, I’m Yixin (Anna) Li. With years of tutoring experience and a solid Electrical Engineering background, I help students understand complex concepts in Physics, Maths, and Circuits. My lessons are practical, engaging, and designed for fast, lasting improvement.
-- **Secondary Button**: Learn More About Me → Links to About page
+
