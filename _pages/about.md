@@ -48,6 +48,6 @@ What Students & Parents Say
 ## Contact
 Get in Touch / Book a Session
   - Email: ying4643li@gmail.com
-  - Phone/WhatsApp: 021 103 7855
-  - **Follow-Up Note**: I’ll respond within 24 hours to schedule your session!
+  - Phone: 021 103 7855
+**Follow-Up Note**: I’ll respond within 24 hours to schedule your session!
 
